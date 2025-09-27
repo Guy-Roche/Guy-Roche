@@ -26,12 +26,13 @@ I’m a Laravel and Power Platform developer passionate about automation, UX, an
 <a href="https://dataverse.microsoft.com/" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/Dataverse.png" width="36" alt="Dataverse" /></a></p>
 
 🧩 Microsoft 365 Support
-<p align="left"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/teams-colored.svg" width="36" alt="Microsoft Teams" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sharepoint-colored.svg" width="36" alt="SharePoint" /></a> </p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/teams.png" width="36" alt="Microsoft Teams" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/sharepoint.png" width="36" alt="SharePoint" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/onedrive" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/onedrive.png" width="36" alt="OneDrive" /></a></p>
 
 📊 Leetcode Stats
 
 🌐 Socials
-<p align="left"> <a href="https://github.com/Guy-Roche" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a> <a href="https://www.instagram.com/guyroche.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a> <a href="https://www.linkedin.com/in/guy-roche-kouakou/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a> </p>
+<p align="left"> <a href="https://github.com/Guy-Roche" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a> <a href="https://www.linkedin.com/in/guy-roche-kouakou/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a> </p>
 
 🏆 Badges & Stats
 <a href="http://www.github.com/Guy-Roche"><img src="https://github-readme-stats.vercel.app/api?username=Guy-Roche&show_icons=true&count_private=true&theme=github_dark" alt="Guy-Roche's GitHub stats" /></a> <a href="https://github.com/Guy-Roche"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Roche&langs_count=10&theme=github_dark&layout=compact" alt="Top Languages" /></a>
