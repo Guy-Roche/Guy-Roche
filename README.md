@@ -29,10 +29,27 @@ I’m a Laravel and Power Platform developer passionate about automation, UX, an
 <p align="left"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/teams.png" width="36" alt="Microsoft Teams" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/sharepoint.png" width="36" alt="SharePoint" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive" target="_blank"><img src="https://github.com/Guy-Roche/Guy-Roche/blob/main/onedrive.png" width="36" alt="OneDrive" /></a></p>
 
-📊 Leetcode Stats
 
 🌐 Socials
 <p align="left"> <a href="https://github.com/Guy-Roche" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a> <a href="https://www.linkedin.com/in/guy-roche-kouakou/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a> </p>
 
-🏆 Badges & Stats
-<a href="http://www.github.com/Guy-Roche"><img src="https://github-readme-stats.vercel.app/api?username=Guy-Roche&show_icons=true&count_private=true&theme=github_dark" alt="Guy-Roche's GitHub stats" /></a> <a href="https://github.com/Guy-Roche"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Roche&langs_count=10&theme=github_dark&layout=compact" alt="Top Languages" /></a>
+### Badges
+
+
+<a href="http://www.github.com/Guy-Roche"><img src="https://github-readme-stats.vercel.app/api?username=Guy-Roche&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guy-Roche's GitHub stats" /></a>
+
+## Contributions from SkillSwap
+
+![SkillSwapSkill GitHub Stats](https://github-readme-stats.vercel.app/api?username=skillswapskill&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=skillswapskill&theme=dark&hide_border=false)
+
+<div  style="background-color:black; padding: 15px; border-radius: 10px;">
+  <img src="https://ghchart.rshah.org/green/skillswapskill" alt="skillswapskill's GitHub Contribution Graph" />
+</div>
+
+
+
+
+<a href="https://github.com/Guy-Roche" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Roche&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
